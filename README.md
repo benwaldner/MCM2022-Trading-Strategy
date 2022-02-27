@@ -1,2 +1,2 @@
 # Trading-Strategy
-MCM2022: Trading strategy design for bitcoin and gold
+MCM/ICM2022: Trading strategy design for bitcoin and gold
