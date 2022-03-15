@@ -22,11 +22,11 @@ Results verview:
 <img src="./figures/gamma.png" width="700">
 
 - Effect of commission fee with portfolio terminal value
-<img src="./figures/scale-update-return-alpha.png" width="800">
+<img src="./figures/scale-update-return-alpha.png" width="750">
 
 
 - Commission fee ratio and transaction frequency
-<img src="./figures/commission-gamma.png" width="800">
+<img src="./figures/commission-gamma.png" width="700">
 
 
 
