@@ -6,8 +6,6 @@
 - **Check the "final_report" for details.**
 
 Results verview:
-<img src="./images/data.png" width="700">
-
 - Rotation strategy:
 <img src="./images/rotation.png" width="700">
 
