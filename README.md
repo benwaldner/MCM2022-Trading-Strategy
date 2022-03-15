@@ -9,9 +9,8 @@ Results verview:
 - Rotation strategy:
 <img src="./images/rotation.png" width="700">
 
-- GFTD signal hyperparameter grid search heatmap:
+- GFTD signal hyperparameter grid search (bitcoin only) with RoMaD metric:
 <img src="./images/gftd_heat_bitcoin.png" width="600">
-<img src="./images/gftd_heat_gold.png" width="600">
 
 - Dynamic strategy fusion pipline:
 <img src="./images/fusion.png" width="600">
