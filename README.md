@@ -13,7 +13,7 @@ Results verview:
 <img src="./images/gftd_heat_bitcoin.png" width="600">
 
 - Dynamic strategy fusion pipline:
-<img src="./images/fusion.png" width="600">
+<img src="./figures/fusion.png" width="600">
 
 - Proportion of individual strategy in the fused version:
 <img src="./figures/scale-component-ready.png" width="700">
