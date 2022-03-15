@@ -13,8 +13,19 @@ Results verview:
 <img src="./images/gftd_heat_bitcoin.png" width="600">
 <img src="./images/gftd_heat_gold.png" width="600">
 
+- Dynamic strategy fusion pipline:
+<img src="./images/fusion.png" width="600">
+
+- Proportion of individual strategy in the fused version:
+<img src="./figures/scale-component-ready.png" width="700">
+
 - Cumulative return of investors with different levels of risk preferences:
 <img src="./figures/gamma.png" width="700">
 
 - Commission fee ratio and transaction frequency
 <img src="./figures/commission-gamma.png" width="700">
+
+- Effect of commission fee with portfolio terminal value
+<img src="./figures/scale-update-return-alpha.png" width="700">
+
+
