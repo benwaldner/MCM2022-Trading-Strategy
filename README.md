@@ -9,9 +9,9 @@ Results verview:
 - Rotation strategy:
 <img src="./images/rotation.png" width="700">
 
-- GFTD signal:
-<img src="./images/gftd_heat_bitcoin.png" width="700">
-<img src="./images/gftd_heat_gold.png" width="700">
+- GFTD signal hyperparameter grid search heatmap:
+<img src="./images/gftd_heat_bitcoin.png" width="600">
+<img src="./images/gftd_heat_gold.png" width="600">
 
 - Cumulative return of investors with different levels of risk preferences:
 <img src="./figures/gamma.png" width="700">
