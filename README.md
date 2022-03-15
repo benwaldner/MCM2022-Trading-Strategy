@@ -5,7 +5,7 @@
 - Performed sensitivity analysis towards transaction costs; <br>
 - **Check the "final_report" for details.**
 
-Results verview:
+#### Results verview
 - Rotation strategy:
 <img src="./images/rotation.png" width="700">
 
