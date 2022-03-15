@@ -10,8 +10,11 @@ Results verview:
 <img src="./images/rotation.png" width="700">
 
 - GFTD signal:
+<center class="half">
+    <img src="./images/gftd_heat_bitcoin.png" width="300"/>
+    <img src="./images/gftd_heat_gold.png" width="300"/>
+</center>
 
-![./images/gftd_heat_bitcoin.png](./images/gftd_heat_bitcoin.png)![./images/gftd_heat_gold.png](./images/gftd_heat_gold.png)
 
 - Cumulative return of investors with different levels of risk preferences:
 <img src="./figures/gamma.png" width="700">
